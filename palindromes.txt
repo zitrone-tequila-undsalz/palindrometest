@@ -1,0 +1,7 @@
+﻿Palindrome examples
+
+racecar
+rotator
+madam
+No lemon, no melon
+Borrow or rob?
