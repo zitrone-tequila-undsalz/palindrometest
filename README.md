@@ -5,7 +5,10 @@ Program requires readline-sync to enable conversation with the user via console.
 
 ## Installation
 
+```
 npm i readline-sync
+
+```
 
 ## Usage
 
